@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-container {
+  background-image: linear-gradient(to right, #000, #092e33, #000);
+  width: 100%;
+  background-size: cover;
+  padding: 45px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  text-align: center;
+}
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  font-family: 'Roboto';
+  min-height: 100vh;
+}
